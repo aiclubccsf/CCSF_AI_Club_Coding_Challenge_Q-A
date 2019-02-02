@@ -1,0 +1,4 @@
+Curesey goes to Miguel Galvan for finding them these problems:
+1: Swap 2 integers without using a third variable
+2: Reverse integers (ex: 847362 becomes 263748
+3: Given an array, print out the most occuring item in the list. ([1, 4, 2, 8, 6, 7, 2, 3, 2, 8, 2, 0, 9, 1] returns 2)
