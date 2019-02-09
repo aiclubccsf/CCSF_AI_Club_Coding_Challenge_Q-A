@@ -1,0 +1,15 @@
+//1: Create method that takes an int as an argument.
+// Add up all the numbers from 1 to the number tou passed into the function.
+//For example, if the input is 4, then your function should return 10
+// because 1 + 2 + 3 + 4 = 10
+
+// 2: Create a method which takes an array of ints between 1 and 10
+// (Excluding one number) and returns the midding number.
+//
+// Extra challenge: solve without the use of a for loop
+
+''' 3: Divide without division, multiplcation, or modulus '''
+
+/* 4: Get start and end number, and print out how many numbers
+there are in between EXCLUDING ANY NUMBER with 5.
+*/
