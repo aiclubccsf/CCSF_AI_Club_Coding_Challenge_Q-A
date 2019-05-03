@@ -1,0 +1,7 @@
+// Given a 2D array where deeper into the arrays it's larger,
+// find a speicfic value inside it
+//Return true or false if in it
+
+Fastest solution, start at last index, check if item is less than current
+element, and greater than left, go down.
+If less then or equal to left, go left

@@ -1,0 +1,6 @@
+// Given a 2D array, print it out in a sprial order
+{{1, 2,  3,  4}
+ {5, 6,  7,  8}
+ {9,  10, 11, 12}
+{ 12, 13, 15, 16}}
+// Like the dreamcast spiral
