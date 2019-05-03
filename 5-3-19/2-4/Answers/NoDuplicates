@@ -1,0 +1,5 @@
+You can use caching to store what's been stored already.
+Hash table, dictionary, array...
+
+Check to see if the item exists in the cache already, if exsits, ommit that line and
+move onto the next

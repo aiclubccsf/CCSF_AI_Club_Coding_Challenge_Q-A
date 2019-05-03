@@ -1,0 +1,17 @@
+Given two array's with elements (similar to same), check how many connecting
+lines there are between the two arrays
+x [1, 4, 2]
+y [1, 2, 4]
+
+1 and 1 connect 
+4 and 4 connect, but 2 and 2 cannot connect because of an overlapping ilne
+
+x [1, 4, 2]
+   |    \
+y [1, 2, 4]
+
+or
+
+x [1, 4, 2]
+   |    /
+y [1, 2, 4]

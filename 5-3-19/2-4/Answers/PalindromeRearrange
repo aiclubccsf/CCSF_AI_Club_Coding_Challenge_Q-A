@@ -1,0 +1,5 @@
+Solution:
+Check if there are even amount of unique characters in the string 
+(if odd length string, then there can be 1 odd unique character).
+
+That should determine if the string is a palindrome

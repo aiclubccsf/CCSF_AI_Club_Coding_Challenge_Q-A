@@ -1,0 +1,6 @@
+Given a list of numbers,
+
+take 2 of the arbitrary numbers, get sum of them, then product of those two numbers.
+take the 2 numbers, and remove them, replace it with the product.
+
+Keep looping till you get 1 number
